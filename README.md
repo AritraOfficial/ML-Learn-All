@@ -33,9 +33,3 @@ Stay tuned and keep learning! 🚀
 <p align="center" style="color:gray">
   <sub><i>© 2025 AriM. Official • For educational and learning purposes only.</i></sub>
 </p>
-
----
-
-Stay Connect with Me to achieve and learn more to become expert. 
-
----
