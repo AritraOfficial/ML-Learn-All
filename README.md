@@ -1,4 +1,3 @@
 # ML-Learn-All
-
---- 
-## End - to - End Machine Learning with practical and theory
+ 
+## 🧾👉End-to-End Machine Learning with practical and theory.👈
